@@ -6,6 +6,5 @@
 | Attacker can reset an account by calling a call center and answering wrong commonly known questions  | Complete Calling  | Identity Answer | Calling | Can't reset password | Attack can't stal victim's account |
 
 ### Members
-- Soontorn Janphuk
 - Anan Boondamnoen
-
+- Soontorn Janphuk
